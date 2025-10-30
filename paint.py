@@ -40,6 +40,9 @@ def circle(start, end):
     """Draw circle from start to end."""
     pass  # TODO
 
+def oval(start, end):
+    """Draw oval from start to end."""
+    pass #TODO
 
 def rectangle(start, end):
     """Draw rectangle from start to end."""

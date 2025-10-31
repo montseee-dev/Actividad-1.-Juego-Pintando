@@ -1,5 +1,5 @@
 #Original de Paint.py
 
-#Se agrego un nuevo color a Paint.py, onkey(lambda: 
+#Se agrego un nuevo color: amarillo a Paint.py  
 
 #Se agrego una nueva figura, dado que circulo ya existia se agregó oval
